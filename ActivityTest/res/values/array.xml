@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item >소주</item>
+        <item >맥주</item>
+        <item >양주</item>
+        <item >whisky</item>
+        <item >jean</item>
+        <item >와인</item>
+        <item >폭탄주</item>
+        <item >막걸리</item>        
+    </string-array>
+</resources>
